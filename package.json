@@ -7,7 +7,11 @@
     "test": "test"
   },
   "scripts": {
+<<<<<<< HEAD
     "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> 864c168a16fd1570722929766ff4c7068f0b9290
   },
   "repository": {
     "type": "git",
@@ -18,9 +22,13 @@
   "bugs": {
     "url": "https://github.com/sarahcatherineschaller/npm-lab-v-000/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/sarahcatherineschaller/npm-lab-v-000#readme",
   "dependencies": {
     "learn-browser": "^0.1.17",
     "moment": "^2.22.2"
   }
+=======
+  "homepage": "https://github.com/sarahcatherineschaller/npm-lab-v-000#readme"
+>>>>>>> 864c168a16fd1570722929766ff4c7068f0b9290
 }
